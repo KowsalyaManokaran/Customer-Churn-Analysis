@@ -1,0 +1,1001 @@
+"CUSTOMERID","AGE","GENDER","LOCATION","TOTAL_SPEND","PURCHASE_FREQUENCY","LAST_PURCHASE_DAYS","COMPLAINT_TICKETS","WEBSITE_VISITS","CHURN"
+157,68,"Female","Houston",2390,27,89,9,57,0
+158,49,"Male","San Francisco",1954,4,176,4,39,1
+159,56,"Male","San Francisco",2708,15,18,6,88,0
+160,66,"Male","Los Angeles",2179,35,106,0,33,0
+161,69,"Female","Chicago",2424,37,271,9,59,0
+162,49,"Female","San Francisco",4727,1,319,9,18,0
+163,21,"Female","New York",1277,3,167,6,56,1
+164,47,"Female","San Francisco",1191,47,13,9,92,1
+165,54,"Female","Los Angeles",2891,24,337,5,57,1
+166,40,"Male","Los Angeles",1849,27,32,5,96,1
+167,56,"Female","Chicago",2775,40,40,7,76,0
+168,62,"Male","San Francisco",881,36,148,7,48,0
+169,32,"Male","New York",3148,34,218,5,42,0
+170,60,"Female","New York",2205,29,219,2,27,1
+171,46,"Female","Houston",3967,24,82,4,74,0
+172,53,"Male","New York",4642,24,333,1,52,0
+173,30,"Male","Chicago",2213,42,208,4,42,1
+174,49,"Male","Chicago",4070,4,201,8,32,0
+175,24,"Female","New York",2091,3,332,9,26,0
+176,68,"Female","New York",1167,34,38,0,25,0
+177,39,"Female","Houston",1677,49,211,9,75,0
+178,45,"Female","New York",1111,23,327,4,23,0
+179,19,"Female","Houston",2374,23,249,5,98,1
+180,59,"Male","Houston",4969,45,227,6,57,0
+181,62,"Female","New York",1914,5,48,8,52,1
+182,23,"Male","Los Angeles",2526,31,18,5,87,0
+183,45,"Male","Los Angeles",4502,41,295,4,93,0
+184,45,"Male","Houston",4974,6,196,6,31,1
+185,61,"Female","New York",2651,37,187,0,64,0
+186,61,"Female","Los Angeles",3757,10,345,4,71,0
+187,37,"Female","New York",107,40,224,1,33,1
+188,47,"Male","New York",2655,7,318,3,85,0
+189,28,"Male","New York",575,39,337,6,2,0
+190,45,"Male","San Francisco",2311,38,229,4,18,0
+191,42,"Male","New York",584,21,77,5,47,0
+192,56,"Male","San Francisco",4754,20,188,1,33,0
+193,50,"Male","Houston",2385,3,346,2,98,0
+194,18,"Female","Los Angeles",4663,22,270,6,84,1
+195,44,"Female","Los Angeles",3625,47,95,1,35,1
+196,69,"Female","Los Angeles",3439,4,310,5,51,0
+197,30,"Female","Los Angeles",2922,28,132,4,18,0
+198,58,"Male","Los Angeles",3024,12,39,9,88,0
+199,20,"Male","Los Angeles",358,38,72,0,72,0
+200,56,"Female","Los Angeles",382,36,281,9,30,0
+201,23,"Male","Houston",1998,47,333,3,44,1
+202,25,"Female","New York",4235,41,160,1,53,1
+203,44,"Female","Chicago",3076,5,187,3,10,0
+204,26,"Female","San Francisco",2367,13,191,0,87,0
+205,54,"Male","Chicago",3300,23,120,1,52,0
+206,50,"Female","Chicago",712,30,220,7,49,0
+207,68,"Female","New York",787,37,53,5,11,0
+208,59,"Female","New York",3790,25,222,1,66,1
+209,61,"Male","New York",712,48,131,5,58,0
+210,41,"Male","Los Angeles",2407,27,237,9,90,1
+211,32,"Female","Houston",3113,14,246,8,36,0
+212,49,"Male","Los Angeles",1881,48,226,6,33,0
+213,49,"Male","Houston",2691,47,208,8,47,0
+214,41,"Male","Houston",2796,36,96,4,13,0
+215,58,"Male","Chicago",4058,39,200,6,40,0
+216,69,"Male","Chicago",674,16,247,6,89,0
+217,66,"Male","Houston",2010,22,72,2,68,1
+218,66,"Male","Houston",3704,21,318,6,42,0
+219,69,"Male","Los Angeles",769,21,185,0,19,0
+220,29,"Male","Los Angeles",4464,8,6,8,82,1
+221,56,"Male","Chicago",1383,49,206,9,94,1
+222,19,"Female","New York",1023,16,32,5,19,1
+223,20,"Female","Houston",1225,31,99,4,58,0
+224,66,"Male","Los Angeles",1629,42,256,6,23,1
+225,54,"Female","Chicago",1694,10,187,4,54,0
+226,66,"Female","Los Angeles",346,32,76,9,80,0
+227,34,"Male","Houston",3811,34,177,4,65,0
+228,66,"Male","Houston",1660,9,315,9,12,0
+229,19,"Male","San Francisco",2500,17,287,6,24,0
+230,19,"Female","New York",2343,11,349,9,34,0
+231,45,"Female","San Francisco",3964,32,255,6,53,0
+232,40,"Male","Chicago",2039,10,325,2,8,0
+233,54,"Male","Los Angeles",3169,22,190,2,18,0
+234,49,"Male","Chicago",326,17,308,9,57,1
+235,50,"Female","Houston",3647,4,345,2,5,1
+236,18,"Female","San Francisco",364,48,127,5,26,0
+237,36,"Female","San Francisco",1495,47,287,5,30,1
+238,19,"Female","San Francisco",3657,25,254,2,54,0
+239,61,"Male","Chicago",745,21,213,2,13,0
+240,43,"Male","Houston",3090,37,250,7,83,0
+241,49,"Male","Los Angeles",1999,38,84,7,29,0
+242,23,"Male","Los Angeles",2604,49,13,6,3,1
+243,49,"Female","Chicago",2872,1,45,9,90,0
+244,21,"Female","San Francisco",1254,25,127,3,58,0
+245,28,"Male","New York",687,36,114,3,76,0
+246,34,"Male","Chicago",4671,17,276,2,2,0
+247,55,"Female","Chicago",1921,41,205,4,75,1
+248,41,"Male","Houston",1085,24,337,2,28,1
+249,22,"Female","Los Angeles",4179,2,273,7,82,0
+250,69,"Male","Chicago",3448,40,58,6,77,1
+251,51,"Male","Chicago",3931,15,328,2,86,0
+252,23,"Male","San Francisco",1341,32,219,8,76,1
+253,39,"Male","San Francisco",289,39,109,4,2,0
+254,28,"Male","New York",1080,6,279,8,7,0
+255,65,"Male","Houston",1798,1,174,6,26,0
+256,33,"Male","New York",1815,47,328,6,90,0
+257,50,"Female","San Francisco",2693,23,264,5,88,0
+258,26,"Female","Los Angeles",4236,39,315,1,76,0
+259,23,"Female","San Francisco",4533,17,111,8,16,0
+260,33,"Female","Houston",1198,34,187,5,23,1
+261,46,"Female","San Francisco",2426,41,269,7,40,0
+262,20,"Male","Houston",3347,29,229,0,60,0
+263,37,"Male","Houston",995,9,156,4,73,0
+264,53,"Female","Houston",1774,13,189,0,32,1
+265,36,"Male","Houston",3009,6,272,9,15,0
+266,43,"Female","Houston",1030,6,2,7,13,1
+267,20,"Female","Los Angeles",4484,20,246,7,5,1
+268,36,"Male","New York",823,3,210,0,75,0
+269,37,"Male","Chicago",3040,17,286,8,74,0
+270,49,"Male","New York",1189,49,359,1,52,0
+271,24,"Female","Houston",4678,12,13,8,77,0
+272,69,"Male","Los Angeles",1035,48,96,0,41,1
+273,58,"Female","San Francisco",2395,47,221,9,53,1
+274,50,"Female","Los Angeles",255,45,238,8,50,0
+275,57,"Female","Houston",1170,1,94,3,15,0
+276,56,"Male","Los Angeles",2058,17,338,8,7,1
+277,35,"Male","Los Angeles",2601,3,269,6,40,0
+278,57,"Female","Houston",4319,26,171,5,28,0
+279,18,"Male","Los Angeles",3930,15,94,4,32,0
+280,28,"Male","Chicago",954,36,149,8,99,0
+281,45,"Male","Chicago",739,32,112,1,15,1
+282,42,"Female","Los Angeles",2338,32,55,1,85,0
+283,67,"Female","San Francisco",1702,4,337,8,70,0
+284,40,"Male","Houston",541,18,116,2,65,1
+285,48,"Female","Chicago",4728,49,143,7,4,0
+286,47,"Male","San Francisco",1436,19,201,8,11,1
+287,59,"Male","Los Angeles",3800,43,180,7,26,0
+288,52,"Male","San Francisco",1048,35,202,3,61,0
+289,24,"Male","New York",3473,40,364,0,37,1
+290,33,"Female","Chicago",559,14,53,3,23,0
+291,43,"Female","Los Angeles",4746,33,180,8,93,0
+292,65,"Female","Houston",492,14,313,1,85,0
+293,69,"Male","Los Angeles",4038,34,308,2,91,0
+294,66,"Male","Houston",1887,4,137,9,40,0
+295,19,"Male","Los Angeles",2357,24,182,7,77,1
+296,18,"Female","San Francisco",1238,29,1,5,23,1
+297,65,"Male","San Francisco",3908,19,44,7,16,1
+298,29,"Female","San Francisco",4841,6,227,6,94,0
+299,22,"Female","New York",2554,33,331,4,61,0
+300,54,"Female","Houston",1566,49,98,8,68,0
+301,49,"Female","San Francisco",3774,40,208,3,80,1
+302,26,"Female","New York",1477,19,265,5,31,0
+303,58,"Female","Houston",2697,1,288,1,53,0
+304,52,"Male","Los Angeles",241,5,271,1,25,1
+305,36,"Male","New York",2759,27,140,1,44,0
+306,65,"Female","Chicago",4696,16,237,9,12,0
+307,33,"Female","New York",939,6,72,6,90,1
+308,20,"Male","New York",3718,40,155,1,97,1
+309,37,"Female","Houston",4017,13,190,1,92,0
+310,41,"Female","Los Angeles",695,48,268,8,9,0
+311,50,"Male","Chicago",2004,35,321,6,12,1
+312,41,"Female","San Francisco",380,19,107,2,69,0
+313,69,"Female","San Francisco",523,12,232,2,54,0
+314,28,"Female","New York",4465,16,42,6,54,0
+315,66,"Male","Houston",4349,43,190,4,28,0
+316,25,"Male","Houston",1850,10,139,9,56,0
+317,53,"Male","San Francisco",4857,25,103,5,99,0
+318,55,"Female","Chicago",2067,20,171,7,69,0
+319,57,"Female","Los Angeles",4188,31,351,8,98,0
+320,37,"Male","Chicago",4278,4,273,0,98,1
+321,52,"Female","Los Angeles",3046,44,221,2,77,1
+322,65,"Female","San Francisco",1549,23,213,6,58,1
+323,42,"Female","Los Angeles",2431,2,341,5,78,0
+324,52,"Female","Houston",2320,22,56,6,75,0
+325,42,"Female","New York",3889,37,342,7,42,0
+326,46,"Male","New York",2910,8,102,5,38,1
+327,35,"Female","San Francisco",4828,7,192,2,68,0
+328,63,"Male","Houston",1631,14,310,1,53,0
+329,35,"Female","Chicago",4982,3,200,6,33,1
+330,19,"Male","Houston",3090,16,233,0,71,0
+331,52,"Female","New York",4593,19,227,2,56,0
+332,33,"Male","New York",1243,18,139,3,72,1
+333,58,"Female","Houston",1033,16,344,0,51,1
+334,53,"Male","Houston",1560,8,305,4,74,0
+335,50,"Female","New York",2823,33,149,9,43,1
+336,21,"Male","Chicago",2612,49,115,2,15,0
+337,50,"Female","San Francisco",385,12,63,1,38,1
+338,31,"Male","San Francisco",364,11,104,2,15,0
+339,38,"Male","Houston",2467,5,339,7,5,0
+340,65,"Female","San Francisco",3547,27,359,5,93,0
+341,37,"Female","New York",1862,12,156,6,83,1
+342,25,"Male","New York",3148,17,273,5,54,0
+343,24,"Female","Houston",2481,6,6,5,51,0
+344,20,"Male","Houston",2369,33,147,2,10,0
+345,34,"Male","Houston",140,5,184,7,12,1
+346,50,"Male","Chicago",167,28,28,6,4,0
+347,65,"Female","San Francisco",1087,14,38,6,95,0
+348,29,"Male","Houston",4108,5,119,5,18,0
+349,68,"Male","Los Angeles",3298,33,293,4,80,0
+350,39,"Female","Los Angeles",4890,48,244,9,36,0
+351,39,"Female","New York",2624,41,68,7,25,0
+352,63,"Female","San Francisco",1185,19,214,4,87,0
+353,47,"Female","Houston",2579,22,218,8,76,0
+354,55,"Male","Los Angeles",1793,5,177,8,98,1
+355,55,"Male","San Francisco",2415,2,299,0,36,0
+356,62,"Male","New York",878,30,164,5,67,0
+357,68,"Male","Chicago",4689,47,58,6,9,1
+358,25,"Female","San Francisco",1685,39,269,2,61,0
+359,44,"Male","San Francisco",1592,4,308,6,53,1
+360,44,"Male","Chicago",760,33,58,6,18,0
+361,51,"Female","San Francisco",1448,13,288,1,43,0
+362,38,"Male","New York",1399,20,105,6,35,0
+363,47,"Male","New York",4040,7,228,0,63,1
+364,50,"Male","Chicago",2086,15,247,4,98,0
+365,45,"Male","Houston",2144,23,188,8,78,0
+366,64,"Male","Los Angeles",3616,14,83,6,4,1
+367,50,"Male","Houston",1158,23,186,6,93,0
+368,22,"Female","San Francisco",1076,19,252,1,41,0
+369,65,"Female","Los Angeles",4677,29,355,7,45,0
+370,36,"Male","Chicago",827,20,238,2,50,1
+371,21,"Male","Chicago",2627,29,360,7,79,0
+372,52,"Female","Los Angeles",3236,24,184,2,28,0
+373,66,"Male","New York",442,18,284,9,42,0
+374,34,"Male","Los Angeles",1547,10,210,6,80,0
+375,61,"Male","San Francisco",2479,41,304,1,76,1
+376,45,"Female","New York",3759,8,296,3,69,1
+377,47,"Male","Chicago",626,26,97,5,98,1
+378,46,"Female","Los Angeles",1996,29,208,8,1,1
+379,63,"Male","Houston",4854,10,137,4,39,0
+380,23,"Female","Houston",2173,17,184,8,96,0
+381,52,"Female","San Francisco",505,2,76,4,90,1
+382,58,"Male","Houston",1673,6,287,9,17,0
+383,54,"Female","Los Angeles",4700,5,142,7,91,0
+384,41,"Male","Los Angeles",3840,28,237,0,88,1
+385,46,"Female","Houston",4374,41,25,6,35,0
+386,66,"Male","Los Angeles",4327,5,290,3,46,1
+387,63,"Male","San Francisco",1946,18,67,4,42,0
+388,48,"Female","New York",1578,26,250,5,39,0
+389,52,"Male","San Francisco",2495,20,118,4,90,0
+390,50,"Male","San Francisco",871,41,73,0,49,0
+391,69,"Female","Los Angeles",678,49,282,8,62,1
+392,38,"Male","New York",3001,27,360,1,38,0
+393,49,"Male","Los Angeles",293,49,10,8,23,0
+394,40,"Female","Chicago",2107,12,211,9,22,0
+395,50,"Female","Los Angeles",1285,7,323,1,4,0
+396,20,"Male","Los Angeles",2494,3,152,8,49,0
+397,35,"Male","Los Angeles",3098,10,5,5,59,1
+398,42,"Female","New York",1892,34,195,8,73,0
+399,59,"Female","Los Angeles",1210,25,283,5,68,1
+400,48,"Male","New York",4105,35,113,5,71,1
+401,20,"Female","Houston",2361,16,271,1,87,0
+402,57,"Male","Chicago",3836,2,163,7,2,0
+403,63,"Male","New York",3893,24,105,2,49,1
+404,41,"Male","Houston",2036,10,181,6,88,0
+405,67,"Male","New York",4975,38,44,4,95,0
+406,49,"Male","New York",4457,22,282,2,31,0
+407,64,"Female","Chicago",829,26,175,0,40,1
+408,39,"Female","San Francisco",4478,43,162,7,48,1
+409,40,"Female","San Francisco",3551,39,351,2,51,1
+410,19,"Female","New York",4557,27,340,1,43,0
+411,44,"Male","Los Angeles",4636,29,140,0,98,0
+412,59,"Male","Houston",2240,47,132,3,55,0
+413,19,"Male","Los Angeles",1744,38,87,7,88,0
+414,43,"Male","Los Angeles",2900,20,176,2,49,0
+415,34,"Female","New York",241,27,183,0,90,1
+416,57,"Male","New York",1555,41,129,3,80,1
+417,50,"Male","New York",4896,20,246,8,57,0
+418,26,"Female","New York",2196,44,89,0,77,0
+419,60,"Female","San Francisco",1425,19,66,1,15,0
+420,65,"Female","New York",1313,20,158,8,27,0
+421,56,"Female","San Francisco",1259,35,149,1,68,1
+422,46,"Male","San Francisco",4750,47,340,2,80,1
+423,59,"Male","New York",4599,2,116,6,64,0
+424,43,"Female","Chicago",4797,30,214,2,94,0
+425,52,"Male","Houston",440,34,294,8,30,0
+426,67,"Male","Los Angeles",3928,22,253,5,36,0
+427,42,"Male","San Francisco",2068,3,143,2,67,0
+428,41,"Female","Houston",803,6,250,8,86,0
+429,30,"Male","Chicago",4513,15,302,0,86,0
+430,24,"Female","Los Angeles",2529,27,25,9,49,1
+431,53,"Male","Los Angeles",1900,10,277,2,76,0
+432,62,"Male","San Francisco",4748,9,70,0,55,0
+433,37,"Male","New York",955,33,113,1,85,0
+434,18,"Female","Chicago",1912,32,363,7,56,0
+435,25,"Male","San Francisco",2966,48,112,6,68,0
+436,63,"Female","Chicago",3742,6,364,1,95,0
+437,33,"Female","New York",282,41,303,1,44,0
+438,31,"Female","New York",3212,36,91,8,31,0
+439,29,"Male","San Francisco",4592,2,18,5,58,1
+440,68,"Male","New York",1617,29,149,4,87,0
+441,40,"Male","Houston",1456,4,227,9,53,1
+442,32,"Male","Los Angeles",2274,1,214,5,84,0
+443,45,"Female","San Francisco",3729,19,360,8,79,0
+444,51,"Female","Chicago",3728,26,151,6,23,0
+445,19,"Female","Houston",4196,25,192,9,28,0
+446,49,"Male","San Francisco",3339,10,40,9,16,1
+447,40,"Female","New York",3791,15,242,8,37,1
+448,39,"Male","New York",118,22,138,3,21,1
+449,68,"Female","New York",3503,48,345,1,79,1
+450,42,"Male","New York",4779,21,180,7,17,0
+451,39,"Male","Chicago",4651,22,200,3,37,0
+452,39,"Female","Houston",3104,36,203,8,77,0
+453,66,"Female","Los Angeles",1232,34,61,3,19,1
+454,69,"Female","Chicago",3439,30,192,7,30,1
+455,59,"Female","Chicago",3411,25,5,8,45,0
+456,23,"Male","Los Angeles",3472,45,237,8,18,1
+457,32,"Female","Los Angeles",1087,28,181,9,78,0
+458,60,"Female","New York",3421,1,311,3,62,0
+459,54,"Female","Chicago",4715,49,37,0,36,0
+460,50,"Male","San Francisco",273,45,56,2,84,0
+461,25,"Male","Los Angeles",3841,4,237,8,52,1
+462,61,"Female","Los Angeles",3152,7,358,3,19,0
+463,61,"Male","Houston",826,49,349,4,44,0
+464,22,"Female","San Francisco",3860,9,197,6,7,0
+465,56,"Male","San Francisco",1975,36,73,4,44,0
+466,21,"Male","Los Angeles",4133,19,59,3,68,0
+467,23,"Male","New York",1089,1,240,1,34,0
+468,62,"Male","Houston",3844,10,2,1,66,0
+469,49,"Female","San Francisco",2786,36,360,3,69,0
+470,69,"Female","Los Angeles",519,9,188,9,55,0
+471,47,"Female","San Francisco",693,45,307,9,10,1
+472,64,"Male","Houston",1874,46,30,8,96,0
+473,52,"Female","Houston",2559,42,267,7,42,0
+474,57,"Female","Chicago",1035,32,108,2,41,0
+475,69,"Female","Los Angeles",3908,32,332,8,77,0
+476,33,"Male","Houston",431,6,90,4,69,0
+477,30,"Male","Chicago",3549,48,205,2,10,1
+478,67,"Male","Chicago",2802,38,220,4,10,1
+479,59,"Female","San Francisco",4106,17,94,9,91,1
+480,47,"Female","San Francisco",3968,10,103,3,60,0
+481,36,"Female","Chicago",4300,27,223,7,51,0
+482,34,"Male","San Francisco",301,35,186,4,21,1
+483,36,"Male","Houston",2597,21,184,9,8,0
+484,45,"Female","New York",1942,25,162,7,65,0
+485,43,"Male","Houston",1966,28,247,8,92,1
+486,54,"Male","Chicago",2096,47,31,3,78,0
+487,43,"Male","Chicago",1009,15,52,6,85,0
+488,40,"Male","Houston",4405,4,345,1,30,0
+489,26,"Female","San Francisco",4758,29,76,5,85,0
+490,29,"Male","San Francisco",3289,9,278,7,49,0
+491,18,"Male","Chicago",870,27,40,6,9,0
+492,18,"Male","Los Angeles",3255,26,101,6,17,0
+493,64,"Male","San Francisco",2601,19,111,7,69,0
+494,51,"Female","Houston",2814,28,321,6,58,0
+495,49,"Female","San Francisco",4824,17,249,4,57,1
+496,65,"Male","Houston",3685,43,191,6,62,0
+497,42,"Male","Chicago",1728,41,182,9,95,0
+498,57,"Male","San Francisco",486,42,335,2,52,0
+499,62,"Male","Houston",3521,20,209,4,61,1
+500,18,"Male","Chicago",4108,45,22,6,40,0
+501,33,"Male","Los Angeles",4193,40,166,8,38,0
+502,56,"Female","Houston",4463,39,99,1,43,0
+503,22,"Male","Los Angeles",2566,49,208,3,63,1
+504,39,"Female","Los Angeles",2382,23,8,6,19,0
+505,46,"Female","New York",1956,47,190,0,50,0
+506,20,"Male","San Francisco",2098,32,175,1,33,0
+507,29,"Female","Houston",1336,47,273,8,13,0
+508,43,"Female","Los Angeles",4769,33,17,9,78,1
+509,33,"Female","New York",4244,46,90,6,97,1
+510,68,"Female","Chicago",1250,5,141,9,62,0
+511,54,"Female","Houston",4418,43,145,6,93,1
+512,39,"Female","Los Angeles",1531,48,166,5,43,0
+513,46,"Male","San Francisco",1919,34,337,2,49,0
+514,31,"Female","New York",2424,40,78,9,36,0
+515,45,"Female","Los Angeles",1230,11,262,2,10,0
+516,22,"Female","San Francisco",2758,3,163,1,95,1
+517,64,"Male","Los Angeles",3600,33,14,5,6,0
+518,66,"Female","Houston",474,11,239,3,57,0
+519,47,"Male","Houston",2220,16,72,4,1,0
+520,63,"Female","Houston",4120,18,143,2,71,0
+521,69,"Male","New York",2121,30,310,5,58,0
+522,22,"Male","Houston",3805,48,283,2,91,0
+523,29,"Female","San Francisco",3359,10,269,7,21,1
+524,33,"Female","Los Angeles",3535,18,241,8,92,0
+525,43,"Male","Chicago",1989,38,245,3,80,0
+526,43,"Female","San Francisco",1923,19,163,8,56,1
+527,65,"Male","San Francisco",1574,36,60,6,87,1
+528,38,"Male","Houston",2342,13,6,2,20,0
+529,56,"Male","New York",3343,46,197,6,54,1
+530,53,"Male","Los Angeles",3234,3,58,0,25,0
+531,50,"Male","New York",2170,10,305,2,28,0
+532,47,"Female","Los Angeles",459,38,217,5,5,0
+533,54,"Male","Los Angeles",2141,1,26,3,21,1
+534,40,"Male","New York",1241,27,303,6,18,0
+535,27,"Female","San Francisco",1735,46,5,2,47,0
+536,22,"Male","Los Angeles",4100,8,20,0,70,0
+537,53,"Female","New York",2043,46,198,8,57,1
+538,51,"Female","Los Angeles",4874,42,59,5,93,0
+539,69,"Female","Chicago",3461,17,242,7,19,0
+540,48,"Male","San Francisco",3080,9,146,2,97,0
+541,27,"Male","Houston",106,6,273,7,65,1
+542,36,"Male","Los Angeles",3367,43,249,1,3,1
+543,49,"Female","Chicago",1691,25,14,3,42,0
+544,18,"Male","Houston",3364,39,13,2,21,0
+545,22,"Female","Houston",2706,49,44,9,99,1
+546,62,"Male","Los Angeles",3319,28,19,0,40,0
+547,21,"Female","New York",3373,33,63,6,67,1
+548,33,"Male","Los Angeles",1013,37,239,9,25,1
+549,41,"Male","Chicago",2111,9,337,1,55,0
+550,33,"Male","Houston",1542,18,100,3,84,0
+551,19,"Female","Los Angeles",3154,21,163,8,52,0
+552,66,"Female","New York",3646,2,122,5,44,0
+553,45,"Male","Los Angeles",4321,43,44,7,98,0
+554,49,"Male","San Francisco",3028,38,360,1,85,0
+555,44,"Female","New York",1929,40,317,6,56,0
+556,37,"Female","Chicago",675,36,145,5,55,0
+557,41,"Female","Houston",1029,43,327,8,87,0
+558,29,"Male","Los Angeles",3859,37,363,6,70,0
+559,67,"Female","New York",3799,15,50,0,77,1
+560,52,"Male","San Francisco",1563,28,65,7,87,0
+561,50,"Female","New York",3375,18,355,9,73,1
+562,50,"Male","San Francisco",1154,34,288,2,81,0
+563,68,"Female","Chicago",2000,22,164,1,66,0
+564,60,"Female","Houston",1557,11,141,2,19,1
+565,54,"Female","Chicago",1499,13,314,5,83,0
+566,29,"Female","Los Angeles",3515,4,128,2,7,0
+567,20,"Female","New York",542,22,239,9,63,0
+568,18,"Male","San Francisco",3750,7,324,4,42,0
+569,50,"Female","San Francisco",4752,43,296,5,42,0
+570,57,"Female","New York",1278,24,187,7,59,0
+571,27,"Female","New York",4558,4,208,6,20,0
+572,60,"Male","Los Angeles",1357,28,220,7,73,0
+573,61,"Female","Chicago",3734,15,190,2,17,0
+574,46,"Male","San Francisco",1941,1,346,3,27,0
+575,30,"Female","Los Angeles",2409,3,284,5,47,0
+576,29,"Female","Chicago",1010,14,352,6,2,0
+577,48,"Male","Los Angeles",4440,38,237,8,63,1
+578,63,"Female","San Francisco",4737,1,194,0,62,0
+579,19,"Male","New York",4109,38,287,7,19,0
+580,68,"Male","New York",2269,38,259,7,17,0
+581,67,"Female","Chicago",2272,21,246,5,69,1
+582,52,"Male","Houston",223,48,136,3,39,0
+583,40,"Female","Chicago",3258,29,280,2,82,1
+584,34,"Female","Houston",885,5,271,2,71,0
+585,43,"Male","Los Angeles",2516,49,171,5,81,0
+586,25,"Male","Los Angeles",896,10,159,7,39,1
+587,46,"Male","San Francisco",4272,28,201,6,36,0
+588,43,"Male","Houston",4254,21,45,0,40,0
+589,27,"Female","San Francisco",2036,7,264,5,45,1
+590,43,"Female","New York",2256,3,71,6,4,1
+591,51,"Male","Houston",3907,45,364,6,25,0
+592,68,"Female","Chicago",1401,47,103,8,69,0
+593,58,"Female","New York",4263,20,125,9,30,1
+594,24,"Female","New York",3240,19,313,4,76,0
+595,21,"Female","Chicago",3336,35,286,0,68,1
+596,67,"Male","New York",2452,4,230,1,88,0
+597,62,"Male","Houston",2032,5,146,3,29,0
+598,28,"Female","San Francisco",2821,1,197,4,73,1
+599,46,"Male","New York",464,4,221,8,68,0
+600,53,"Male","Houston",2490,12,60,0,51,0
+601,42,"Male","Los Angeles",1046,27,98,2,24,0
+602,38,"Female","Houston",1477,42,171,4,14,0
+603,53,"Female","San Francisco",1539,23,173,2,69,0
+604,27,"Female","Houston",3280,25,151,3,18,1
+605,54,"Male","Chicago",4957,21,350,2,42,0
+606,26,"Female","San Francisco",440,24,122,3,57,0
+607,41,"Female","Los Angeles",3089,25,108,0,83,1
+608,52,"Male","Chicago",482,45,4,7,12,0
+609,66,"Female","Houston",1656,46,93,3,82,0
+610,52,"Female","San Francisco",399,32,6,6,17,0
+611,65,"Male","Los Angeles",238,32,288,1,30,1
+612,53,"Male","Chicago",458,5,106,1,88,0
+613,35,"Male","Los Angeles",1622,36,146,5,75,0
+614,66,"Female","Houston",3556,46,271,1,99,0
+615,56,"Female","Los Angeles",1727,42,96,5,23,0
+616,49,"Female","New York",1403,49,229,1,81,0
+617,41,"Male","Chicago",1234,42,202,3,1,0
+618,40,"Male","Los Angeles",2286,39,212,6,79,0
+619,49,"Female","Houston",3270,16,6,7,32,1
+620,54,"Female","Houston",3935,33,112,2,9,0
+621,29,"Male","Los Angeles",2251,49,323,8,15,0
+622,66,"Male","Houston",1337,21,106,1,28,0
+623,30,"Male","San Francisco",3835,9,139,7,24,0
+624,40,"Male","San Francisco",2934,6,299,7,60,0
+625,42,"Female","San Francisco",4360,45,96,3,35,0
+626,52,"Male","New York",1098,35,337,0,86,0
+627,58,"Female","Los Angeles",2667,39,297,0,27,1
+628,47,"Female","New York",1407,22,214,1,83,0
+629,34,"Female","Houston",756,41,291,8,76,0
+630,66,"Male","New York",2760,5,22,1,20,0
+631,37,"Male","Houston",2311,42,193,1,65,0
+632,65,"Male","Houston",2009,23,150,5,85,0
+633,42,"Male","Chicago",3830,17,247,6,49,0
+634,39,"Female","San Francisco",2146,12,267,6,1,0
+635,30,"Male","Houston",3262,23,251,8,10,1
+636,36,"Male","Chicago",1240,16,3,5,47,0
+637,66,"Female","San Francisco",366,3,316,7,59,0
+638,53,"Male","Houston",1945,30,76,5,96,0
+639,29,"Female","Houston",1808,22,87,1,62,0
+640,58,"Female","New York",3730,9,270,0,86,0
+641,36,"Female","New York",3311,29,225,4,18,1
+642,29,"Female","San Francisco",2393,47,18,8,46,0
+643,26,"Female","Houston",3832,37,113,7,32,1
+644,24,"Female","Los Angeles",3929,23,251,3,27,1
+645,45,"Female","New York",1610,13,233,4,92,0
+646,31,"Female","San Francisco",575,32,329,4,18,0
+647,48,"Male","Houston",1076,46,279,5,39,0
+648,69,"Male","Houston",1307,47,202,2,49,0
+649,36,"Male","Los Angeles",2060,48,83,4,93,1
+650,64,"Male","San Francisco",657,23,125,1,82,0
+651,33,"Female","Houston",982,45,175,9,44,1
+652,22,"Male","New York",2294,17,69,0,72,0
+653,52,"Female","Los Angeles",4861,40,47,0,54,1
+654,29,"Male","San Francisco",2767,21,256,9,95,1
+655,42,"Male","Los Angeles",4777,2,215,6,34,0
+656,69,"Male","New York",4890,37,30,1,71,0
+657,38,"Female","San Francisco",1710,6,281,3,36,0
+658,53,"Male","Los Angeles",3588,44,237,4,18,1
+659,40,"Female","Chicago",2554,18,248,6,38,1
+660,33,"Female","New York",4594,30,25,1,59,1
+661,56,"Male","New York",2046,22,74,5,9,0
+662,62,"Male","New York",4910,33,206,0,73,0
+663,59,"Male","Chicago",4899,30,314,6,72,1
+664,56,"Female","Chicago",2908,17,94,8,51,0
+665,31,"Male","Houston",3925,43,127,4,35,1
+666,48,"Female","Los Angeles",3636,32,25,4,82,0
+667,22,"Female","Houston",3902,42,334,3,5,0
+668,52,"Male","Los Angeles",4277,14,355,2,14,0
+669,40,"Male","Chicago",4799,10,116,8,92,0
+670,46,"Female","Chicago",2070,47,48,4,30,0
+671,60,"Female","Houston",3922,36,226,7,4,0
+672,28,"Female","San Francisco",2919,34,266,8,39,0
+673,35,"Male","Houston",1002,9,99,4,84,0
+674,64,"Female","Los Angeles",464,42,11,9,64,0
+675,29,"Male","Houston",4358,28,85,8,25,1
+676,26,"Female","New York",3219,11,214,1,28,1
+677,27,"Female","Los Angeles",2658,14,173,8,76,1
+678,61,"Male","Los Angeles",1963,39,209,3,66,1
+679,34,"Female","San Francisco",215,47,64,5,78,0
+680,55,"Male","Chicago",2484,19,258,5,22,0
+681,24,"Male","Los Angeles",4035,15,332,5,31,0
+682,63,"Female","Chicago",2590,28,121,1,23,1
+683,30,"Male","Houston",1042,24,298,6,48,0
+684,57,"Male","New York",1824,8,54,5,20,0
+685,59,"Female","San Francisco",2434,43,331,0,38,1
+686,26,"Male","Chicago",2867,9,272,1,55,0
+687,67,"Male","Los Angeles",1237,47,241,6,68,0
+688,44,"Male","Chicago",2627,33,243,0,79,0
+689,19,"Female","Los Angeles",4217,33,18,0,88,0
+690,22,"Male","Chicago",3520,19,187,0,89,0
+691,46,"Female","Los Angeles",4878,3,346,7,1,0
+692,54,"Female","Houston",4006,10,144,3,7,0
+693,55,"Male","Los Angeles",3737,40,262,3,57,0
+694,36,"Male","Los Angeles",3053,47,364,1,95,1
+695,25,"Male","New York",2467,42,239,0,12,1
+696,65,"Female","Los Angeles",4321,1,304,9,5,0
+697,62,"Male","New York",376,29,298,8,50,1
+698,18,"Male","San Francisco",2099,34,76,6,42,0
+699,39,"Male","New York",1327,13,188,3,12,0
+700,69,"Male","Houston",3852,1,333,5,18,0
+701,34,"Male","New York",3835,34,246,1,66,0
+702,24,"Female","San Francisco",795,29,130,6,74,0
+703,42,"Female","Houston",1409,48,315,1,79,0
+704,62,"Male","Chicago",4252,47,283,9,94,0
+705,21,"Male","Chicago",3334,13,79,7,17,1
+706,53,"Male","New York",4214,48,72,7,68,0
+707,23,"Male","New York",2411,49,263,0,71,0
+708,48,"Female","San Francisco",2941,29,191,7,62,0
+709,36,"Male","San Francisco",4308,39,63,1,41,0
+710,61,"Female","Los Angeles",3659,24,12,5,95,0
+711,56,"Female","San Francisco",3498,26,141,0,34,0
+712,44,"Male","Los Angeles",641,17,254,4,70,0
+713,27,"Female","Houston",2794,7,43,6,45,1
+714,43,"Female","New York",4774,13,17,9,58,0
+715,36,"Female","Houston",1188,5,63,0,51,1
+716,56,"Female","San Francisco",3463,26,253,1,34,0
+717,20,"Male","Houston",124,49,292,6,44,0
+718,62,"Male","Houston",1672,3,8,5,15,0
+719,30,"Female","Houston",3058,7,325,2,78,0
+720,67,"Male","San Francisco",4336,49,90,9,70,0
+721,45,"Male","Houston",1867,39,208,1,50,0
+722,37,"Male","Los Angeles",4843,1,292,9,32,1
+723,45,"Male","San Francisco",2335,49,284,3,67,1
+724,25,"Male","Houston",300,17,118,2,3,0
+725,58,"Female","San Francisco",3298,43,349,6,86,0
+726,56,"Male","Chicago",356,25,175,7,86,0
+727,18,"Male","Los Angeles",3847,3,76,1,74,0
+728,20,"Male","Houston",4742,15,101,9,51,1
+729,30,"Male","Chicago",2341,29,151,6,67,1
+730,45,"Female","Chicago",3275,43,270,7,76,1
+731,66,"Female","San Francisco",3706,32,71,5,93,0
+732,42,"Female","Chicago",3436,26,180,5,48,0
+733,50,"Female","Los Angeles",4997,16,124,9,17,0
+734,55,"Male","Los Angeles",513,25,293,0,7,1
+735,23,"Female","New York",2114,28,285,3,13,0
+736,61,"Male","Los Angeles",1481,9,195,0,66,0
+737,62,"Male","Chicago",1198,1,228,3,4,0
+738,49,"Male","Los Angeles",3526,29,275,1,10,1
+739,62,"Male","San Francisco",3755,22,106,4,88,0
+740,64,"Male","New York",1009,16,21,9,17,0
+741,38,"Female","Chicago",287,41,64,8,52,1
+742,33,"Female","New York",4144,44,165,9,6,1
+743,38,"Female","Chicago",3856,41,27,2,83,0
+744,28,"Female","San Francisco",2115,7,311,7,69,0
+745,54,"Male","New York",2192,14,285,2,96,1
+746,53,"Female","Houston",3744,29,148,5,74,1
+747,52,"Male","Chicago",2230,19,281,3,9,0
+748,36,"Female","Houston",457,19,326,7,91,0
+749,37,"Male","New York",2522,2,319,5,77,0
+750,35,"Male","Houston",4357,41,164,7,83,1
+751,64,"Female","Houston",4645,45,224,0,21,0
+752,58,"Male","New York",1597,15,272,5,24,0
+753,66,"Male","San Francisco",2258,3,146,0,4,0
+754,31,"Female","Houston",2655,11,356,0,24,1
+755,32,"Male","Houston",2442,46,30,7,59,0
+756,48,"Female","San Francisco",3051,30,45,6,99,0
+757,18,"Female","Houston",1338,40,275,2,3,0
+758,20,"Female","Houston",1073,18,34,5,68,0
+759,33,"Male","Houston",4827,48,141,8,40,0
+760,40,"Male","Los Angeles",4065,2,318,6,48,1
+761,28,"Male","San Francisco",1150,32,221,2,54,0
+762,29,"Female","Houston",3801,8,356,5,35,1
+763,27,"Male","San Francisco",2880,22,22,3,95,0
+764,49,"Female","Chicago",1688,6,180,2,56,0
+765,33,"Female","Chicago",3978,12,329,8,89,0
+766,25,"Male","Houston",2468,47,231,9,40,0
+767,55,"Female","San Francisco",536,40,38,1,77,0
+768,29,"Male","San Francisco",2928,36,70,0,68,1
+769,41,"Male","San Francisco",1656,15,116,1,46,1
+770,45,"Male","Los Angeles",3958,28,239,6,78,0
+1,56,"Male","New York",4531,31,75,1,98,0
+2,69,"Male","Los Angeles",3047,28,277,3,26,0
+3,46,"Male","San Francisco",4059,44,133,5,21,0
+4,32,"Female","San Francisco",2913,6,343,7,28,0
+5,60,"Male","Chicago",2683,41,59,2,48,0
+6,25,"Male","Los Angeles",261,16,345,0,40,0
+7,38,"Male","Chicago",693,4,182,2,66,0
+8,56,"Female","Los Angeles",3359,35,339,2,73,1
+9,36,"Female","Chicago",4255,48,321,4,87,0
+10,40,"Male","San Francisco",3062,26,64,3,79,0
+11,28,"Male","San Francisco",3988,12,327,3,77,0
+12,28,"Male","New York",3490,11,260,8,23,0
+13,41,"Male","Chicago",4601,37,193,6,81,0
+14,53,"Female","Houston",763,25,143,3,48,0
+15,57,"Female","New York",1232,18,104,2,2,1
+16,41,"Female","Chicago",641,19,214,5,84,1
+17,20,"Female","Chicago",3074,23,242,2,20,1
+18,39,"Male","New York",967,38,209,5,59,0
+19,19,"Male","San Francisco",2166,18,93,8,46,0
+20,41,"Male","Chicago",531,26,142,5,3,1
+21,61,"Female","San Francisco",4935,6,112,3,55,0
+22,47,"Male","New York",4378,4,59,4,12,0
+23,55,"Female","San Francisco",1306,44,43,5,40,0
+24,19,"Female","Los Angeles",2628,29,207,2,66,0
+25,38,"Male","Houston",1269,34,268,7,78,0
+26,50,"Male","Chicago",930,17,296,3,16,1
+27,29,"Male","Houston",1751,43,118,7,83,0
+28,39,"Female","San Francisco",1236,43,20,9,34,0
+29,61,"Male","Chicago",2910,16,222,9,44,1
+30,42,"Female","San Francisco",575,2,166,2,6,1
+31,66,"Male","Los Angeles",2910,34,131,9,77,0
+32,44,"Female","New York",1426,8,156,6,64,0
+33,59,"Female","Chicago",1119,13,184,8,22,1
+34,45,"Male","Los Angeles",1936,42,90,3,18,1
+35,33,"Female","Los Angeles",4356,8,94,7,12,0
+36,32,"Female","Chicago",2548,30,13,2,52,1
+37,64,"Male","San Francisco",4393,32,322,6,94,0
+38,68,"Female","Los Angeles",1383,36,293,2,51,0
+39,61,"Male","Houston",759,47,230,6,71,0
+40,69,"Female","Los Angeles",2110,30,322,9,96,0
+41,20,"Male","San Francisco",498,1,292,9,48,1
+42,54,"Male","San Francisco",1833,43,26,5,19,0
+43,68,"Female","Houston",2225,39,75,1,6,0
+44,24,"Female","Los Angeles",2271,17,364,2,84,0
+45,38,"Female","San Francisco",174,20,299,5,27,0
+46,26,"Female","Chicago",4797,24,150,3,53,0
+47,56,"Female","New York",3571,22,148,5,48,0
+48,35,"Male","New York",936,29,8,0,7,0
+49,21,"Female","New York",599,22,29,9,59,1
+50,42,"Male","Los Angeles",237,44,296,0,69,0
+51,31,"Male","Houston",2197,9,209,2,11,0
+52,67,"Female","San Francisco",3796,37,128,7,15,1
+53,26,"Male","Chicago",1985,10,340,7,64,0
+54,43,"Male","Chicago",2857,36,116,3,3,0
+55,19,"Male","Los Angeles",4020,37,144,5,69,1
+56,37,"Male","New York",2000,28,318,7,23,0
+57,45,"Female","Los Angeles",2710,28,235,6,53,0
+58,64,"Male","Houston",4086,42,7,6,37,0
+59,24,"Female","Houston",1549,43,45,3,9,0
+60,61,"Female","San Francisco",646,21,239,8,15,1
+61,25,"Male","San Francisco",4776,24,155,9,3,0
+62,64,"Female","Houston",2103,42,181,5,93,1
+63,52,"Female","Houston",2196,40,215,2,70,1
+64,31,"Female","Houston",803,2,88,4,17,0
+65,34,"Male","Los Angeles",2503,8,256,4,26,0
+66,53,"Female","Houston",1725,48,73,4,21,0
+67,67,"Female","Chicago",3431,27,179,7,72,0
+68,57,"Female","New York",4833,22,212,8,21,0
+69,21,"Male","Houston",3078,37,293,8,11,1
+70,19,"Female","New York",4836,27,234,5,38,1
+71,23,"Male","Los Angeles",2939,29,239,5,72,0
+72,59,"Male","New York",3484,3,223,8,88,0
+73,21,"Male","Los Angeles",2759,44,119,3,35,1
+74,46,"Male","Chicago",1961,13,313,5,14,0
+75,35,"Male","Los Angeles",2956,45,264,3,14,1
+76,43,"Male","Los Angeles",785,10,207,0,10,0
+77,61,"Female","San Francisco",4383,36,95,6,12,0
+78,51,"Male","Houston",1719,9,222,9,38,1
+79,27,"Female","Houston",4743,27,276,5,34,0
+80,53,"Female","Chicago",1531,34,231,8,41,1
+81,31,"Male","Chicago",975,1,309,6,10,1
+82,48,"Female","Houston",4813,32,119,6,17,0
+83,65,"Female","San Francisco",2561,25,268,1,17,0
+84,32,"Female","Houston",1465,29,273,8,67,1
+85,25,"Female","San Francisco",1343,7,64,9,62,1
+86,31,"Male","Chicago",262,49,298,8,95,0
+87,40,"Female","New York",2074,3,350,5,1,1
+88,57,"Male","Chicago",3391,20,11,2,12,0
+89,38,"Female","Chicago",369,20,98,0,4,0
+90,33,"Female","Los Angeles",731,30,71,3,42,1
+91,62,"Male","Los Angeles",1005,35,364,2,13,0
+92,35,"Female","Los Angeles",3571,35,58,0,98,1
+93,64,"Female","Los Angeles",3353,49,290,2,85,0
+94,41,"Female","San Francisco",2114,39,251,3,86,0
+95,43,"Male","Houston",1741,27,276,7,4,0
+96,42,"Female","New York",304,26,50,8,82,0
+97,62,"Male","Chicago",681,14,358,2,69,0
+98,58,"Female","San Francisco",940,17,216,5,19,0
+99,46,"Male","New York",1819,18,52,9,2,0
+100,32,"Male","San Francisco",2743,45,271,4,12,0
+101,62,"Female","San Francisco",2397,29,84,5,81,0
+102,18,"Female","Chicago",974,20,293,3,74,1
+103,42,"Male","Houston",789,27,126,9,98,0
+104,24,"Male","Los Angeles",4100,18,296,5,6,0
+105,26,"Female","Houston",3241,4,72,6,8,0
+106,41,"Male","Chicago",1522,1,296,8,51,0
+107,18,"Female","Chicago",771,1,236,9,11,0
+108,61,"Female","Chicago",1271,26,56,6,63,0
+109,25,"Female","New York",3826,45,360,5,57,0
+110,41,"Female","Houston",1043,20,110,0,12,1
+111,28,"Male","Houston",1549,23,192,1,73,1
+112,68,"Female","San Francisco",3837,10,93,0,2,0
+113,34,"Male","San Francisco",2639,11,350,8,8,0
+114,25,"Female","San Francisco",4059,41,56,9,11,0
+115,52,"Male","Chicago",4360,41,60,9,53,0
+116,52,"Female","Houston",2461,5,138,8,10,0
+117,50,"Male","Chicago",3752,1,39,6,85,0
+118,22,"Male","New York",3770,17,28,1,84,0
+119,59,"Female","San Francisco",1853,22,49,5,8,0
+120,56,"Female","Chicago",2452,34,125,3,36,0
+121,58,"Female","Chicago",2038,45,13,0,93,0
+122,45,"Female","New York",470,41,36,0,76,0
+123,24,"Male","Los Angeles",4579,29,101,4,14,0
+124,26,"Female","Houston",2031,4,282,1,54,0
+125,25,"Male","Los Angeles",524,5,86,3,85,0
+126,29,"Male","San Francisco",4824,11,4,0,86,0
+127,51,"Female","Chicago",994,21,223,3,21,0
+128,50,"Male","New York",697,35,338,5,50,0
+129,65,"Male","New York",3162,12,166,9,94,0
+130,40,"Male","Houston",2436,26,344,3,39,0
+131,41,"Male","Los Angeles",4788,19,278,0,20,0
+132,54,"Female","Houston",1787,45,130,6,88,0
+133,52,"Female","Chicago",672,7,31,1,87,0
+134,61,"Female","Houston",2190,47,11,8,7,0
+135,57,"Female","New York",3769,7,302,2,9,1
+136,39,"Male","New York",4372,26,96,7,1,0
+137,44,"Male","San Francisco",4724,40,190,7,26,0
+138,52,"Female","San Francisco",1733,5,192,2,38,1
+139,18,"Female","Chicago",1617,21,266,3,38,1
+140,52,"Female","Los Angeles",4393,14,128,1,61,0
+141,54,"Male","Houston",2757,4,238,3,44,0
+142,64,"Female","Chicago",3748,23,355,8,86,0
+143,31,"Female","San Francisco",3688,42,112,1,44,0
+144,20,"Female","Houston",1637,20,316,2,74,0
+145,18,"Male","San Francisco",3237,15,343,3,62,0
+146,22,"Male","Houston",197,45,145,4,6,0
+147,43,"Male","Los Angeles",3315,29,65,0,17,1
+148,31,"Male","Chicago",4630,8,247,6,51,1
+149,56,"Male","Houston",4832,41,223,9,38,0
+150,44,"Male","New York",3850,48,313,6,24,0
+151,26,"Male","New York",3257,19,106,8,51,0
+152,32,"Male","Houston",4783,48,181,3,10,1
+153,32,"Female","Houston",443,39,184,5,72,0
+154,43,"Female","Houston",4766,46,226,1,21,0
+155,59,"Male","New York",710,28,265,3,70,0
+156,30,"Male","New York",1827,46,278,1,85,0
+771,25,"Male","Chicago",1404,49,335,9,13,1
+772,45,"Male","San Francisco",2484,45,148,0,27,0
+773,53,"Female","San Francisco",282,18,9,5,6,1
+774,43,"Female","Los Angeles",1689,2,288,6,17,0
+775,25,"Female","Los Angeles",1687,13,50,8,36,0
+776,67,"Male","San Francisco",759,45,338,7,99,1
+777,45,"Male","New York",259,15,5,5,81,0
+778,45,"Male","San Francisco",4053,20,343,2,2,0
+779,54,"Female","San Francisco",1111,29,126,7,77,0
+780,58,"Male","Los Angeles",152,42,75,6,52,0
+781,53,"Female","Los Angeles",2407,29,165,2,66,1
+782,44,"Female","San Francisco",1328,3,278,8,52,0
+783,34,"Male","San Francisco",1135,19,324,1,92,1
+784,26,"Male","San Francisco",3802,3,300,2,43,0
+785,50,"Female","Los Angeles",4145,14,290,1,90,0
+786,37,"Male","San Francisco",4549,40,77,0,22,1
+787,30,"Female","San Francisco",1364,4,298,3,55,0
+788,45,"Male","Houston",1984,11,137,4,67,1
+789,65,"Male","New York",1909,31,106,5,99,0
+790,46,"Female","Chicago",3267,43,95,4,60,0
+791,30,"Male","New York",3897,32,135,0,58,0
+792,63,"Female","Houston",2441,27,68,2,12,0
+793,52,"Male","Chicago",3514,30,147,0,88,0
+794,23,"Female","San Francisco",917,43,159,4,69,1
+795,35,"Female","Houston",2537,2,163,4,84,0
+796,68,"Male","San Francisco",988,49,341,5,39,0
+797,22,"Female","Los Angeles",767,9,189,7,13,0
+798,64,"Male","Houston",4828,28,339,9,41,0
+799,42,"Male","Los Angeles",2724,31,95,0,57,0
+800,19,"Male","Houston",4332,34,181,3,53,1
+801,27,"Female","Houston",4623,15,288,9,12,1
+802,47,"Female","Los Angeles",918,48,322,0,13,1
+803,67,"Male","Chicago",2288,25,187,8,74,1
+804,62,"Male","New York",1206,36,138,6,97,0
+805,22,"Female","San Francisco",2324,8,130,6,57,1
+806,50,"Male","Houston",297,9,194,4,40,0
+807,18,"Male","San Francisco",2771,37,316,6,80,0
+808,35,"Female","Los Angeles",3592,48,273,1,45,0
+809,49,"Male","San Francisco",2548,45,352,3,35,0
+810,64,"Female","Los Angeles",570,39,144,6,3,1
+811,66,"Male","San Francisco",2048,32,16,2,5,0
+812,28,"Female","New York",3999,17,302,1,90,1
+813,38,"Male","New York",2110,35,245,9,11,0
+814,43,"Male","New York",3900,37,107,1,71,0
+815,42,"Female","New York",4218,19,88,0,56,1
+816,39,"Male","New York",3896,44,129,4,10,0
+817,44,"Female","New York",4088,29,341,5,34,0
+818,66,"Male","Los Angeles",334,7,4,5,67,0
+819,30,"Female","Houston",1028,28,327,8,72,0
+820,50,"Female","San Francisco",3707,9,306,3,31,0
+821,51,"Female","New York",622,28,95,0,75,0
+822,58,"Female","Los Angeles",3623,6,209,5,71,1
+823,52,"Male","Los Angeles",4626,29,225,4,66,1
+824,18,"Male","Los Angeles",4988,17,348,9,70,1
+825,38,"Female","Houston",1729,16,321,5,41,1
+826,65,"Female","San Francisco",4728,23,47,2,63,0
+827,23,"Female","Houston",1416,31,181,1,32,0
+828,45,"Male","Chicago",2957,3,106,5,20,0
+829,34,"Male","Los Angeles",1224,21,199,0,57,0
+830,22,"Male","Chicago",2687,26,106,6,98,1
+831,48,"Male","New York",1123,36,280,6,50,0
+832,22,"Female","New York",1478,42,260,9,80,0
+833,55,"Female","Houston",3474,37,108,6,25,0
+834,20,"Female","San Francisco",1619,22,19,9,12,0
+835,40,"Male","Chicago",326,42,296,0,71,0
+836,54,"Male","San Francisco",991,12,306,3,39,0
+837,54,"Male","Houston",4172,42,171,6,17,0
+838,27,"Female","New York",2357,13,331,8,45,0
+839,27,"Female","San Francisco",2888,11,195,4,11,0
+840,36,"Male","San Francisco",496,16,12,1,70,0
+841,34,"Female","New York",2178,8,195,6,23,1
+842,38,"Male","Chicago",4844,40,283,9,91,0
+843,31,"Male","New York",4524,40,182,0,70,0
+844,26,"Female","San Francisco",3337,45,305,6,38,1
+845,63,"Male","Chicago",3993,2,144,5,2,0
+846,18,"Female","Chicago",2105,30,316,6,86,1
+847,68,"Male","New York",2116,30,182,9,84,1
+848,62,"Female","San Francisco",3271,12,30,2,89,0
+849,30,"Female","Houston",2768,10,84,2,79,1
+850,21,"Female","San Francisco",1978,44,166,6,93,1
+851,18,"Male","Los Angeles",1296,11,284,1,72,0
+852,66,"Male","Houston",1872,15,281,0,37,0
+853,57,"Female","Chicago",261,16,96,8,49,1
+854,49,"Female","Houston",4076,17,266,8,52,1
+855,51,"Male","Chicago",1851,26,298,6,33,0
+856,45,"Male","Chicago",875,2,296,6,22,0
+857,48,"Male","Houston",1039,12,225,2,5,1
+858,25,"Female","Chicago",3320,26,333,9,18,0
+859,56,"Male","Chicago",639,23,361,1,38,0
+860,43,"Male","Los Angeles",1561,18,42,6,37,1
+861,51,"Female","San Francisco",455,32,303,8,94,0
+862,20,"Male","San Francisco",3704,49,246,0,95,0
+863,67,"Male","Los Angeles",3423,38,208,3,64,1
+864,29,"Male","Houston",334,47,237,5,10,1
+865,18,"Female","New York",1648,3,22,6,79,0
+866,61,"Female","New York",2196,38,185,9,42,0
+867,22,"Female","New York",4313,3,242,6,48,0
+868,47,"Female","Los Angeles",2201,30,363,9,44,1
+869,47,"Female","Los Angeles",1773,1,283,1,82,0
+870,34,"Female","Chicago",2200,30,41,3,87,0
+871,65,"Female","New York",3757,45,336,4,97,0
+872,64,"Male","Houston",4753,32,162,0,16,1
+873,40,"Male","Houston",3696,28,160,0,54,0
+874,32,"Female","New York",3848,21,89,9,35,0
+875,54,"Male","New York",3273,46,322,2,98,0
+876,38,"Male","New York",1915,13,12,9,28,1
+877,31,"Female","Los Angeles",3941,27,73,2,2,0
+878,19,"Male","Los Angeles",2105,36,76,7,94,0
+879,28,"Male","Los Angeles",4593,7,346,8,13,0
+880,68,"Male","San Francisco",774,22,201,0,41,1
+881,56,"Male","Houston",486,10,10,1,80,0
+882,55,"Male","Houston",2258,39,352,9,59,0
+883,51,"Female","Chicago",2761,15,226,1,69,0
+884,55,"Female","Los Angeles",2164,15,176,3,92,1
+885,67,"Female","San Francisco",3951,4,276,1,53,0
+886,51,"Male","San Francisco",3353,32,39,6,45,1
+887,35,"Female","Houston",4736,23,60,8,20,1
+888,47,"Male","Los Angeles",4366,6,66,6,24,0
+889,32,"Male","Chicago",839,24,321,5,61,0
+890,44,"Male","Los Angeles",1501,20,124,9,91,0
+891,68,"Male","New York",3359,37,164,0,94,0
+892,51,"Female","Los Angeles",2377,20,159,9,58,0
+893,69,"Female","New York",4004,12,57,8,27,0
+894,55,"Male","New York",4023,33,78,4,26,1
+895,50,"Female","Chicago",4314,28,194,4,7,0
+896,41,"Male","Houston",3327,8,285,5,42,1
+897,32,"Female","Los Angeles",2931,1,15,8,47,0
+898,47,"Female","New York",3858,37,12,7,53,0
+899,59,"Male","Los Angeles",2612,22,101,7,59,1
+900,68,"Female","Houston",2251,6,156,7,38,0
+901,34,"Male","Houston",3775,21,340,0,69,1
+902,22,"Female","San Francisco",2845,32,125,0,87,0
+903,46,"Male","Houston",3966,35,359,7,92,0
+904,21,"Male","Chicago",3864,15,280,4,98,1
+905,27,"Female","New York",2322,5,110,8,53,0
+906,34,"Female","San Francisco",2892,46,334,1,15,0
+907,27,"Male","Chicago",1797,48,357,8,96,1
+908,34,"Female","Los Angeles",3562,6,146,7,26,0
+909,37,"Female","New York",4163,25,216,8,48,1
+910,41,"Male","Houston",1624,46,162,3,95,1
+911,22,"Male","New York",4860,40,128,0,19,1
+912,51,"Female","Los Angeles",132,29,314,0,9,0
+913,23,"Male","San Francisco",4125,7,332,4,64,0
+914,19,"Male","San Francisco",2666,40,150,1,93,1
+915,30,"Male","San Francisco",2903,13,36,7,54,0
+916,60,"Female","Houston",3996,38,173,9,51,0
+917,60,"Female","Chicago",3809,18,22,4,39,0
+918,65,"Male","Chicago",819,2,206,4,4,0
+919,28,"Female","New York",4679,8,127,1,3,1
+920,68,"Male","Houston",1072,11,336,6,64,1
+921,64,"Female","San Francisco",3818,33,356,7,29,0
+922,40,"Male","San Francisco",4502,38,217,9,11,0
+923,33,"Male","Los Angeles",4652,48,96,0,97,1
+924,48,"Female","Los Angeles",2307,27,164,1,58,0
+925,28,"Male","San Francisco",4526,20,148,9,75,1
+926,33,"Female","San Francisco",4420,12,18,3,27,0
+927,25,"Female","Houston",3130,43,294,4,97,0
+928,21,"Male","Chicago",3675,31,195,1,21,0
+929,57,"Male","Los Angeles",3216,27,151,0,39,1
+930,21,"Female","Chicago",3385,32,123,8,95,0
+931,42,"Male","Houston",743,10,187,0,46,0
+932,20,"Male","San Francisco",4811,3,149,3,66,0
+933,49,"Male","Chicago",294,45,104,1,91,1
+934,20,"Male","San Francisco",4096,27,243,3,36,1
+935,44,"Male","San Francisco",588,35,231,7,75,0
+936,46,"Female","New York",2304,31,206,7,82,0
+937,49,"Female","Chicago",2757,15,198,8,65,0
+938,67,"Male","Chicago",3376,16,337,4,63,0
+939,68,"Male","San Francisco",1202,13,87,6,99,0
+940,36,"Male","Houston",1341,49,142,2,35,0
+941,38,"Female","New York",615,35,317,9,31,0
+942,22,"Male","San Francisco",492,11,199,3,28,0
+943,35,"Female","Los Angeles",730,21,46,9,1,0
+944,45,"Female","Los Angeles",3816,11,288,8,25,1
+945,59,"Female","New York",1947,30,15,9,43,0
+946,39,"Male","Houston",2755,48,44,9,84,0
+947,38,"Female","San Francisco",1079,35,169,0,67,0
+948,23,"Male","Chicago",4629,22,310,1,63,0
+949,18,"Female","New York",3502,38,44,4,51,0
+950,22,"Male","Houston",3971,31,98,2,2,1
+951,58,"Female","Chicago",377,14,261,1,82,0
+952,29,"Male","Los Angeles",332,24,109,0,64,0
+953,43,"Female","Los Angeles",1652,49,283,9,74,0
+954,63,"Male","Chicago",3370,32,343,2,69,1
+955,51,"Male","New York",2509,36,104,0,9,0
+956,66,"Male","Los Angeles",3612,32,256,0,2,0
+957,31,"Male","San Francisco",125,15,206,0,34,0
+958,43,"Female","Chicago",560,43,335,7,60,0
+959,62,"Female","Chicago",3864,35,43,2,61,1
+960,44,"Male","Los Angeles",3531,3,353,0,31,1
+961,26,"Female","New York",3583,16,245,6,10,0
+962,43,"Male","San Francisco",2094,5,287,9,76,0
+963,64,"Male","New York",590,21,355,2,36,1
+964,39,"Female","Houston",1172,10,273,7,85,0
+965,64,"Male","Houston",3273,19,83,3,49,0
+966,47,"Male","Los Angeles",315,25,110,3,70,1
+967,60,"Female","Los Angeles",1823,4,190,4,49,1
+968,65,"Male","Los Angeles",1692,29,288,5,3,0
+969,34,"Male","Houston",2706,19,251,6,74,0
+970,43,"Male","New York",258,43,212,3,5,0
+971,53,"Male","New York",4881,2,291,7,90,1
+972,18,"Female","Los Angeles",3413,10,133,5,61,0
+973,25,"Female","San Francisco",2941,43,201,0,85,0
+974,66,"Female","New York",1876,25,285,0,90,0
+975,52,"Male","Houston",2152,20,326,8,26,0
+976,69,"Male","Chicago",2395,48,95,9,72,0
+977,32,"Female","Chicago",1796,19,278,5,5,0
+978,64,"Male","Chicago",3093,23,325,9,15,0
+979,39,"Male","San Francisco",2569,24,219,7,16,0
+980,31,"Male","Los Angeles",2046,11,89,6,1,1
+981,43,"Male","Houston",3909,46,72,5,16,0
+982,45,"Female","San Francisco",2883,34,247,3,37,1
+983,40,"Female","Houston",3744,28,129,6,3,1
+984,31,"Female","Houston",2600,5,212,8,52,0
+985,41,"Male","Los Angeles",3745,5,343,9,47,0
+986,19,"Female","Chicago",2745,21,96,9,95,1
+987,62,"Female","Los Angeles",2449,12,75,6,13,0
+988,43,"Male","San Francisco",2032,4,54,0,80,0
+989,31,"Male","San Francisco",3394,49,344,9,55,0
+990,68,"Female","San Francisco",1857,42,54,8,21,0
+991,24,"Female","Los Angeles",1216,20,218,3,66,1
+992,20,"Female","Houston",2667,38,16,2,54,1
+993,64,"Female","Houston",3599,25,99,3,27,1
+994,40,"Male","New York",592,14,20,3,38,0
+995,63,"Female","San Francisco",3406,11,46,9,90,0
+996,60,"Female","Houston",719,32,193,1,58,0
+997,64,"Male","New York",3332,11,58,0,62,0
+998,62,"Female","Houston",3923,18,111,9,46,0
+999,35,"Male","San Francisco",2480,27,129,0,89,0
+1000,55,"Male","Chicago",1646,18,337,7,11,0
