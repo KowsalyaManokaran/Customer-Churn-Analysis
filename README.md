@@ -37,6 +37,9 @@ This project aims to identify customers likely to churn based on historical tran
 - Identified top churn-driving factors
 - Helped visualize insights with a business-ready dashboard
 
+## Dashboard Preview
+![image](https://github.com/user-attachments/assets/e181b466-d129-4131-a98b-edd2e11d7eec)
+
 ## Created by
 Kowsalya Manokaran  
 Data Analyst | SQL | Python | Power BI | Excel 
